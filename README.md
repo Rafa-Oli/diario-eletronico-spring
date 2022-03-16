@@ -4,7 +4,7 @@
 
 Use the following link to access the h2 console:
 
-- <https://diario-eletronico.herokuapp.com/h2-console>
+- <https://fast-coast-69944.herokuapp.com/h2-console>
 
 Use the following link to access the Swagger UI:
 
